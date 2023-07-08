@@ -4,9 +4,9 @@ use Illuminate\Support\Str;
 
 return [
 
-    /*
+    /*   
     |--------------------------------------------------------------------------
-    | Default Cache Store
+    | Default Cache Store1
     |--------------------------------------------------------------------------
     |
     | This option controls the default cache connection that gets used while
